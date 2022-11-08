@@ -1,0 +1,75 @@
+
+body{
+    color:white;
+    text-align:center;
+    display:column;
+    background-image: linear-gradient(dodgerblue,lightblue, silver);
+    padding:20px;
+   
+}
+    
+ 
+   
+    
+
+
+#header{
+
+   
+    
+    background-image:url("/images/Santa\ ana\ 2.jpg");
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-size: cover;
+    height:400px;
+    width:875px;
+    color:rgb(17, 26, 153);
+    border: #03045e solid 3px;
+    border-width: 7 10
+   
+}
+
+
+
+
+.visit{
+
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    align-content:space-around;
+    flex-flow:wrap;
+    color:whitesmoke;
+    border:rgb(162, 228, 250) solid 4px;
+    border-width: 10 20 10 20;
+    
+    
+}
+
+.buss{
+    padding:20;
+     color: whitesmoke;
+     display:flex;
+     align-content:center;
+     justify-content: space-around;
+     margin: 0 auto;
+     width:700px;
+     text-align: center;
+     border-top: 10px ridge #03045e;
+     border-left:10px ridge #023e8a;
+     border-right:10px ridge #03045e;
+     border-bottom:10px ridge #023e8a;
+  
+     
+     
+ }
+
+
+        
+   
+    
+
+ 
+
+
+
